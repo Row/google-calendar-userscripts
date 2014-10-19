@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name           Google Calendar Time Box Duration
-// @namespace      https://github.com/Row/lastfm-userscripts
+// @namespace      https://github.com/Row
 // @description    Shows the duration of each event.
 // @include        https://www.google.com/calendar*
 // ==/UserScript==
